@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do0134&theme=vue-dark&show_icons=true)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=do0134)](https://solved.ac/do0134)
+
 <!--
 **do0134/do0134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
