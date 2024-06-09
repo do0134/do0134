@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do0134&theme=vue-dark&show_icons=true)
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/do0134"
+  width="600"
+  height="300"
+/>
+</a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=do0134)](https://solved.ac/do0134)
 
